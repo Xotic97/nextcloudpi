@@ -16,7 +16,7 @@
 
 WEBADMIN=ncp
 WEBPASSWD=ownyourbits
-BRANCH=master
+BRANCH=devel
 
 CONFDIR=/usr/local/etc/ncp-config.d/
 UPLOADTMPDIR=/var/www/nextcloud/data/tmp
